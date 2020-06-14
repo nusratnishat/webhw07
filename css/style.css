@@ -1,0 +1,33 @@
+h1{
+text-align: center;
+color: brown;
+    
+}
+.part1{
+    border-width: 5px;
+    border-style: groove;
+    border-color: firebrick;
+     background-color: aqua;
+    font color: aliceblue;
+    }
+.part2{
+    border-width: 5px;
+    border-style: inset;
+    border-color: firebrick;
+     background-color: aqua;
+    font color: aliceblue;
+}
+.part3{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: firebrick;
+    background-color: aqua;
+    font color: aliceblue;
+}
+.part4{
+    border-width: 5px;
+    border-style: solid;
+    border-color: firebrick;
+    background-color: aqua;
+    font color: aliceblue;
+}
